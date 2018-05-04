@@ -1,0 +1,25 @@
+{
+  "name": "PointTakingTool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "window": {
+    "title": "平面图标点工具",
+    "position": "center",
+    "width": 1024,
+    "height": 768,
+    "toolbar": true,
+    "frame": true,
+    "resizable": true,
+    "min_width": 1024
+  },
+  "author": "jiazhaoyuan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "hotkeys-js": "^3.1.1"
+  }
+}
